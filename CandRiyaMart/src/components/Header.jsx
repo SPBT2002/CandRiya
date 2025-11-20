@@ -8,7 +8,7 @@ const Header = () => {
       <div className="top-bar">
         <div className="container">
           <div className="logo">
-            <span className="logo-tron">Tron</span>
+            <span className="logo-tron">CandRiya</span>
             <span className="logo-mart">Mart</span>
           </div>
 
@@ -33,7 +33,7 @@ const Header = () => {
               <div>
                 <span className="need-help">Need Help?</span>
                 <br />
-                <span className="phone-number">+68 9229 8238</span>
+                <span className="phone-number">+94 75 123 4567</span>
               </div>
             </div>
             <div className="wishlist-cart">
