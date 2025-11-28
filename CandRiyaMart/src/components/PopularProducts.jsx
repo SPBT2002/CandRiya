@@ -69,7 +69,7 @@ const PopularProducts = () => {
     {
       id: 8,
       name: 'Tablet Air 3 WiFi 64GB Gold',
-      price: 629.00,
+      price: 630.00,
       image: 'https://images.unsplash.com/photo-1561154464-82e9adf32764?w=400&q=80',
       badge: 'Tablet'
     }

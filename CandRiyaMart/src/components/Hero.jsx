@@ -14,7 +14,7 @@ const Hero = () => {
           <div className="hero-price">
             <span className="price-label">FROM</span>
             <span className="price-amount">
-              <sup>$</sup>748<sup>99</sup>
+              <sup>$</sup>750<sup>99</sup>
             </span>
           </div>
           <button className="cta-button">Start Buying</button>
