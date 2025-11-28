@@ -62,7 +62,7 @@ const Header = () => {
             <a href="#shop" className="nav-link">Shop</a>
             <a href="#blog" className="nav-link">Blog</a>
             <a href="#faqs" className="nav-link">Faq's</a>
-            <a href="#contact" className="nav-link">Contact</a>
+            <a href="#contact" className="nav-link">Contact Us</a>
           </nav>
           <div className="todays-deal">
             <i className="bi bi-heart"></i> Today's Deal <span className="hot-badge">HOT</span>
